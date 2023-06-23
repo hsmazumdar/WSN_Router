@@ -19,7 +19,7 @@ By implementing these rules, the algorithm aims to minimize the number of retran
 
 
 
-Quick Start Steps-
+Quick Start Steps:
 
 1. Download the zip file and unzip in a folder ‘WSN_Router’.
 2. Select ‘WsnRoutPwr.py’ file and load in VS Code

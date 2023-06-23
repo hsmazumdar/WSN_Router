@@ -13,7 +13,7 @@ Algorithm:
 
 3. While waiting for the delay time to expire, the receiver node checks for any further received packets. If it receives a packet with the same packet number but an increased hop count, it abandons the "ready to transmit" mode.
 
-4. If no packet is received with the same packet number during the waiting period, the receiver node retransmits the packet with an increased hop count and updates the relay node number.
+4. If no packet is received with the same packet number during the waiting period and its battery life parameter is more then 40%, the receiver node retransmits the packet with an increased hop count and updates the relay node number. It updates battery life parameter after each transmission.
 
 By implementing these rules, the algorithm aims to minimize the number of retransmissions required to deliver packets in the network, thus conserving the battery power of the nodes.
 

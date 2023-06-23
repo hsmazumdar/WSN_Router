@@ -3,6 +3,7 @@
 # *       A new WSN Routing Algorithm           *
 # *                  by                         *
 # *	         Himanshu Mazumdar                  *
+# *	           Mrudang Mehta                    *
 # *	       Date:- 28-May-2023                   *
 # *	    Update Date:- 17-June-2023              *
 # ***********************************************

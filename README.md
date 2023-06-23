@@ -16,9 +16,16 @@ a new Novel Energy Efficient Routing Algorithm
 
 ***************************************  
 
-<img src="Readme_files/SrcDstRout.png">
+<img src="Readme_files/SrcDstSend.png">
 
 Figure-2 Simulation of a Wireless Sensor Network (WSN) with interrictive GUI to demonstrate 
+a new Novel Energy Efficient Routing Algorithm 
+
+***************************************  
+
+<img src="Readme_files/SrcDstAuto.png">
+
+Figure-3 Simulation of a Wireless Sensor Network (WSN) with interrictive GUI to demonstrate 
 a new Novel Energy Efficient Routing Algorithm 
 
 ***************************************  

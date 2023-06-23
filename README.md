@@ -5,6 +5,8 @@ Wireless sensor networks (WSNs) have become integral to various applications, ne
 
 The proposed routing algorithm for the wireless sensor network (WSN), our aim is to optimize the number of retransmissions in order to save the battery power of the nodes. Each node runs this algorithm in distributed edge computing mode and follows the following rules when receives a packet:
 
+Algorithm:
+
 1. If the received packet's destination address is the same as the receiver node's address, the node sends an acknowledge packet back to the source node with the same packet number and a hop count of 0. In the acknowledge packet, the source and destination addresses are interchanged, and the packet type is set to 1.
 
 2. If the received packet's destination address is different, the node generates a time delay that is inversely proportional to the distance of the destination node from the stored localization table. During this delay, the node enters a "ready to transmit" mode while waiting for the delay to expire.

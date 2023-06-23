@@ -6,7 +6,7 @@ Wireless sensor networks (WSNs) have become integral to various applications, ne
 Quick Start Steps-
 
 1. Download the zip file and unzip in a folder WSN_Router.
-2. Select NnLib.py and NnXor.py files and load in VS Code
+2. Select WsnRoutPwr.py file and load in VS Code
 3. Install necessary library components
 4. Run WsnRoutPwr.py to popup WsnRoutPwr application of figure-1
 5. Press 'Set' button for default NN configuration In:10-Hdn:7-Out:5

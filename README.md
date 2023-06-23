@@ -9,4 +9,17 @@ Wireless sensor networks (WSNs) have become integral to various applications, ne
 Figure-1 Simulation of a Wireless Sensor Network (WSN) with interrictive GUI to demonstrate 
 a new Novel Energy Efficient Routing Algorithm 
 
+<img src="Readme_files/SrcDstLine.png">
+
+Figure-2 Simulation of a Wireless Sensor Network (WSN) with interrictive GUI to demonstrate 
+a new Novel Energy Efficient Routing Algorithm 
+
 ***************************************  
+
+<img src="Readme_files/SrcDstRout.png">
+
+Figure-2 Simulation of a Wireless Sensor Network (WSN) with interrictive GUI to demonstrate 
+a new Novel Energy Efficient Routing Algorithm 
+
+***************************************  
+

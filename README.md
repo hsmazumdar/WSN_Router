@@ -15,20 +15,18 @@ Quick Start Steps-
 
 <img src="Readme_files/Main.png">
 
-Figure-1 Simulation of a Wireless Sensor Network (WSN) with interrictive GUI to demonstrate 
-a new Novel Energy Efficient Routing Algorithm 
+Figure-1 Simulation of a Wireless Sensor Network (WSN) with interrictive GUI to demonstrate a new Novel Energy Efficient Routing Algorithm. Initially populate selected number of nodes, with random plasement on canvas using 'File' menu of by simply pressing (Cnt+d) 
 
 <img src="Readme_files/SrcDstLine.png">
 
 Figure-2 Simulation of a Wireless Sensor Network (WSN) with interrictive GUI to demonstrate 
-a new Novel Energy Efficient Routing Algorithm 
+a new Novel Energy Efficient Routing Algorithm. 
 
 ***************************************  
 
 <img src="Readme_files/SrcDstSend.png">
 
-Figure-2 Simulation of a Wireless Sensor Network (WSN) with interrictive GUI to demonstrate 
-a new Novel Energy Efficient Routing Algorithm 
+Figure-2 Select a source and destination pair from 'File' menu of by simply pressing (Cnt+l) 
 
 ***************************************  
 
